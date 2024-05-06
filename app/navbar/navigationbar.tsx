@@ -80,7 +80,7 @@ import {
                     >
                       <Logo  />
                       <div className="mb-2 mt-4 text-lg font-medium">
-                      <a href=""> Woldreamz Software</a>
+                      <a href="/"> Woldreamz Software</a>
                       </div>
                       <p className="text-sm leading-tight text-muted-foreground">
                       eCommerce platform for selling digital products.
