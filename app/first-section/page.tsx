@@ -28,7 +28,7 @@ const FirstSection = () => {
             "
             >
                    No matter what you sell,
-            Bird Software has everything you need to run your online store.
+            Woldreamz Software has everything you need to run your online store.
             </p>
             <div className="flex gap-4 justify-center pt-10">
                 <button className="bg-blue-500 text-white px-10 py-4 rounded-md text-lg font-bold">Get Started</button>

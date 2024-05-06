@@ -80,7 +80,7 @@ import {
                     >
                       <Logo  />
                       <div className="mb-2 mt-4 text-lg font-medium">
-                       Bird Software
+                       Woldreamz Software
                       </div>
                       <p className="text-sm leading-tight text-muted-foreground">
                       eCommerce platform for selling digital products.
@@ -89,10 +89,10 @@ import {
                   </NavigationMenuLink>
                 </li>
                 <ListItem  title="Introduction">
-                    Learn about the basics of Bird.
+                    Learn about the basics of Woldreamz.
                 </ListItem>
                 <ListItem  title="Demo">
-                  How to build a store in 60 seconds with Bird
+                  How to build a store in 60 seconds with Woldreamz
                 </ListItem>
                 <ListItem  title="Community">
                     Join the community and get help or support.

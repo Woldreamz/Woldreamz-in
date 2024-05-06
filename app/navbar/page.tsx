@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="
     flex
     justify-between
-    items-center px-10 border-bottom 
+    items-center px-10 border-bottom h-40
     ">
         <Logo />
         <NavigationMenuBar />
