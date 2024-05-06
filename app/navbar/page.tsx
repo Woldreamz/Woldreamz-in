@@ -1,6 +1,6 @@
 import ActionButtons from "./action-buttons";
 import Logo from "./logo";
-import NavigationBar from "./navigationbar";
+import { NavigationMenuBar } from "./navigationbar";
 
 const Navbar = () => {
   return (
@@ -10,7 +10,7 @@ const Navbar = () => {
     items-center px-10 border-bottom 
     ">
         <Logo />
-        <NavigationBar />
+        <NavigationMenuBar />
         <ActionButtons  />
     </div>
 );
