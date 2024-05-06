@@ -94,7 +94,7 @@ const Carousel = () => {
         
         "
       >
-        More than 100+ brands have built their business with Bird Software
+        More than 100+ brands have built their business with Woldreamz Software
       </div>
 
       <div className="grid grid-cols-3 p-4 md:flex">

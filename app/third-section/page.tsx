@@ -73,11 +73,11 @@ flex  justify-center pb-10
                 pb-10
                 
                 ">
-                    From startup to enterprise, Bird is built for every type of business.
+                    From startup to enterprise, Woldreamz is built for every type of business.
 
                 </div>
                 <div className="text-2xl mb-8">
-                Built for all businesses and communities, Bird is the only platform you need to grow your business.
+                Built for all businesses and communities, Woldreamz is the only platform you need to grow your business.
 
                 </div>
                 <button className="bg-blue-500 text-white p-4 justify-center flex md:w-1/3 rounded-lg hover:bg-blue-600">

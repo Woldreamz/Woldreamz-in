@@ -8,7 +8,7 @@ const FifthSection = () => {
 
                 </div>
                 <div>
-                    Curious about how Bird can help your business? Get in touch with our team to learn more about our platform and how we can help you grow your business.
+                    Curious about how Woldreamz can help your business? Get in touch with our team to learn more about our platform and how we can help you grow your business.
                     
                 </div>
 
