@@ -34,6 +34,7 @@ const Pricing = () => {
          to-gray-500 
          bg-clip-text
          text-transparent md:pb-10
+         
         
         ">
             Pricing
@@ -61,9 +62,7 @@ const Pricing = () => {
                     rounded-xl
                     p-4 
                     w-96
-                    h-96
-                    
-                    
+                    h-96                                    
                     
                     ">
 
@@ -71,9 +70,10 @@ const Pricing = () => {
                         <div className="text-xl ">{feature.price}</div>
                         <div className="text-xl ">{feature.fees}</div>
                         <div className="text-xl">{feature.description}</div>
-
-                        <div className="bg-blue-500 text-white p-4 border rounded-xl items-center justify-center">
-                            Get Started
+                        
+                        
+                        <div className="bg-blue-500 text-white p-4 border rounded-xl items-center justify-center cursor-pointer">
+                           <a href="/">Get Started</a>
                             </div>
 
 
