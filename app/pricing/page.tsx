@@ -2,7 +2,7 @@ const features = [
     {
         name : "Basic",
         price : "$40/month",
-        fees : "3.7% + N30 per transaction",
+        fees : "3.7% + $30 per transaction",
         description : "Start selling online with a simple and easy to use platform. Create your first store in minutes..",
         },
         {
