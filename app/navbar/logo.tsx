@@ -4,10 +4,10 @@ const Logo = () => {
     return (
       <div>
         <Image
-          src="/images/logo/logoipsum-282.svg"
+          src="/images/logo/woldreamz-inc-high-resolution-logo-black-transparent.svg"
           alt="Logo"
-          width={100}
-          height={100}
+          width={250}
+          height={250}
         />
          
       </div>
