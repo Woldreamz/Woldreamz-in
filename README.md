@@ -45,7 +45,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Woldreamz/Cerebro.git
+git clone https://github.com/Woldreamz/Yahweh.git
 cd cerebro
 ```
 
