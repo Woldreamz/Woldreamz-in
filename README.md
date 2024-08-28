@@ -10,8 +10,8 @@ Woldreamz Software Platform is a versatile solution designed to help businesses 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Vite
-- React.js
+- Next.js
+- Typescript
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
