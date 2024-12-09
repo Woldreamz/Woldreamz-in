@@ -1,3 +1,5 @@
+import Button from "@/components/ui/button";
+
 const FirstSection = () => {
     return ( 
     <section className="md:py-20 py-10 bg-gradient-to-r from gray-00 to-gray-200 spacey-10">
@@ -31,8 +33,8 @@ const FirstSection = () => {
             Woldreamz Software has everything you need to run your online store.
             </p>
             <div className="flex gap-4 justify-center pt-10">
-                <button className="bg-blue-500 text-white px-10 py-4 rounded-md text-lg font-bold">Get Started</button>
-                <button className="bg-gray-600 text-white px-10 py-4 rounded-md text-lg font-bold">Learn More</button>
+                <Button className="bg-transparent text-black px-10 py-4 rounded-md text-lg font-bold">Get Started</Button>
+                <Button className="bg-transparent text-black px-10 py-4 rounded-md text-lg font-bold">Learn More</Button>
 
             </div>
 

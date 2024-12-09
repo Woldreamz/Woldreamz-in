@@ -1,5 +1,5 @@
 
-import { Button } from "@/components/ui/button";
+import  Button  from "@/components/ui/button";
 
 import {
     Sheet,
@@ -38,7 +38,7 @@ const ActionButtons = () => {
                                    Get Started
                                 </Link>
                                 <Link
-                                href="/"
+                                href="/pricing"
                                 >
                                     Pricing
                                 </Link>
@@ -70,7 +70,7 @@ const ActionButtons = () => {
                     Sign in
                 </Button>
                 <Button
-                className="text-md bg-blue-500">
+                className="text-md bg-transparent">
                     Get Started
                 </Button>
 

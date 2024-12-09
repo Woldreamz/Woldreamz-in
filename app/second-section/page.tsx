@@ -2,6 +2,7 @@
 
 import React from "react"
 import Image from "next/image"
+import Button from "@/components/ui/button"
 
 
 const features = [
@@ -80,9 +81,9 @@ flex  justify-center pb-10
                 Built for all businesses and communities, Woldreamz is the only platform you need to grow your business.
 
                 </div>
-                <button className="bg-blue-500 text-white p-4 justify-center flex md:w-1/3 rounded-lg hover:bg-blue-600">
+                <Button className="bg-transparent text-black p-4 justify-center flex md:w-1/3 rounded-lg hover:bg-grey-600">
                         Get Started
-                </button>
+                </Button>
                 </div>
                 
 

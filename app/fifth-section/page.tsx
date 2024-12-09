@@ -1,3 +1,5 @@
+import Button from "@/components/ui/button";
+
 const FifthSection = () => {
     return (
          <div className="md:py-20 p-10">
@@ -12,10 +14,10 @@ const FifthSection = () => {
                     
                 </div>
 
-                <button className="bg-blue-500 text-white px-6 py-3 md:w-1/4 mt-5 rounded-lg">
+                <Button className="bg-transparent text-black px-6 py-3 md:w-1/4 mt-5 rounded-lg">
                     Contact Sales 
 
-                </button>
+                </Button>
 
             </div>
 
