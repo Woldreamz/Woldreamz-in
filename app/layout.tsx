@@ -5,7 +5,7 @@ import "./globals.css";
 const font = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "City of God",
+  title: "Woldreamz Inc",
   description: "Woldreamz Software Platform is a versatile solution designed to help businesses of all sizes build their brand and start selling quickly.",
 };
 
