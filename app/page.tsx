@@ -9,7 +9,8 @@ import FifthSection from "./fifth-section/page";
 import Footer from "./footer/page";
 
 export default function Home() {
-  return <div>
+  return (
+  <div>
     <Navbar />
     <FirstSection />
     <Carousel />
@@ -19,5 +20,5 @@ export default function Home() {
     <Pricing />
     <FifthSection />
     <Footer />
-  </div>;
+  </div>);
 }
