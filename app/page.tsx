@@ -10,14 +10,14 @@ import Footer from "./footer/page";
 
 export default function Home() {
   return (
-  <div>
-    <Navbar />
-    <FirstSection />
-    <Carousel />
-    <SecondSection />
-    <ThirdSection />
-    <FourthSection />
-    <FifthSection />
-    <Footer />
-  </div>);
+    <div>
+      <Navbar />
+      <FirstSection />
+      <Carousel />
+      <SecondSection />
+      <FourthSection />
+      <FifthSection />
+      <Footer />
+    </div>
+  );
 }
