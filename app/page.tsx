@@ -17,7 +17,6 @@ export default function Home() {
     <SecondSection />
     <ThirdSection />
     <FourthSection />
-    <Pricing />
     <FifthSection />
     <Footer />
   </div>);

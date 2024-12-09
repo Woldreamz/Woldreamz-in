@@ -1,3 +1,5 @@
+import Navbar from "../navbar/page";
+
 const features = [
     {
         name : "Basic",
@@ -23,7 +25,11 @@ const features = [
 
 const Pricing = () => {
     return ( 
-    <div className="flex flex-col justify-center items-center">
+    <div className="relative">
+        <Navbar />
+
+
+        <div className="flex flex-col justify-center items-center">
         <div className="
         text-4xl 
         text-center
@@ -85,7 +91,9 @@ const Pricing = () => {
 
         </div>
      
-    </div> );
+    </div>
+    </div> 
+  );
 }
  
 export default Pricing;

@@ -1,11 +1,15 @@
 import React from "react";
 import Link from "next/link";
+import Navbar from "../navbar/page";
 
 const Documentation = () => {
   return (
-    <div className="flex">
+    <div className="relative">
+        <Navbar />
+
+        <div className="flex">
       {/* Sidebar */}
-      <div className="w-64 h-screen bg-gray-800 text-white p-6 overflow-auto">
+      <div className="w-64 h-screen bg-gray-800 text-white p-6 fixed top-0 left-0 z-10">
         <h2 className="text-2xl font-semibold mb-8">Documentation</h2>
         <ul className="space-y-6">
           <li>
@@ -36,7 +40,7 @@ const Documentation = () => {
       </div>
 
       {/* Content Area */}
-      <div className="flex-1 bg-gray-50 p-8 overflow-auto">
+      <div className="flex-1 bg-gray-50 p-8 ml-64 h-screen overflow-y-auto">
         <h1 className="text-4xl font-semibold text-center text-gray-900 mb-10">
           Welcome to the Woldreamz Documentation
         </h1>
@@ -129,6 +133,8 @@ const Documentation = () => {
           </ul>
         </section>
       </div>
+    </div>
+
     </div>
   );
 };
